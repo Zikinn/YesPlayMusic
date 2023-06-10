@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://service-qo25s0qz-1259783114.bj.apigw.tencentcs.com/:match*"
+      "destination": "https://service-qo25s0qz-1259783114.bj.apigw.tencentcs.com/release/:match*"
     }
   ]
 }
